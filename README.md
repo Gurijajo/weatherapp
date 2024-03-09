@@ -7,3 +7,11 @@ This is a simple weather application that allows users to check the weather of a
 
 https://gurijajo.github.io/weatherapp/
 
+
+
+# Visit
+https://gurijajo.github.io/CALC-JS/
+
+# Calculator Project
+
+This is a simple calculator web application built using HTML, CSS, and JavaScript.
